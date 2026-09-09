@@ -40,18 +40,11 @@ These clips visualize synchronized infrared-visible frames by overlaying the two
 
 ### Demo 1
 
-
 https://github.com/user-attachments/assets/e1e015bd-bc8f-4c59-beb3-c46416593a5b
 
+### Demo 2
 
-### Demo 3
 https://github.com/user-attachments/assets/0f7cb69e-8d62-45bd-b906-6b8e73102b6a
-
-
-
-
-
-
 
 ## Scene coverage
 
